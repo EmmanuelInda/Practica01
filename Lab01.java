@@ -4,6 +4,6 @@ public class Lab01 {
 
         String respuesta = banco.darPalabra();
 
-        System.out.println(respuesta);
+        System.out.println("Palabra: " + respuesta);
     }
 }
